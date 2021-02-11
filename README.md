@@ -1,4 +1,4 @@
-# PowerBI_DataScience
+# Microsoft Power BI para Data Science
 Curso Gratuito de Microsoft Power BI para Data Science 2.0
 
 Excelente curso gratuito de Microsoft Power BI para Data Science pela Data Science Academy que é divido em 4 partes:
