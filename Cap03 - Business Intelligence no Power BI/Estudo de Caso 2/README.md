@@ -21,7 +21,7 @@ Aplicações de Business Intelligence no Power BI. Definindo Estratégias de Ven
 </ul>
 
 # Modelo de Organização Star Schema
-<center><img src="https://user-images.githubusercontent.com/61481422/107713995-2a4f9c80-6cab-11eb-98e1-31bc228f1130.png" alt="" width="800"></center>
+<center><img src="https://user-images.githubusercontent.com/61481422/107713999-2cb1f680-6cab-11eb-99a0-4dd5e8a75373.png" alt="" width="800"></center>
 
 # Dashboard
-<center><img src="https://user-images.githubusercontent.com/61481422/107713999-2cb1f680-6cab-11eb-99a0-4dd5e8a75373.png" alt="" width="800"></center>
+<center><img src="https://user-images.githubusercontent.com/61481422/107713995-2a4f9c80-6cab-11eb-98e1-31bc228f1130.png" alt="" width="800"></center>
