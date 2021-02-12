@@ -1,6 +1,6 @@
 # Primeiros Passos com Power BI
 
-Neste 2º Capítulo do Curso começamos a conhecer os primeiros passos para trabalhar no Power BI com um Estudo de caso para realizar as primeiras aplicações na plataforma além de criar o Primeiro Dashboard:
+Neste 2º Capítulo do Curso começamos a trilhar os primeiros passos para trabalhar no Power BI com um Estudo de caso para realizar as primeiras aplicações na plataforma além de criar o Primeiro Dashboard:
 
 <ul>
   <li>Introdução</li>
