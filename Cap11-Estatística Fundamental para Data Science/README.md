@@ -1,6 +1,6 @@
 # Estatística Fundamental para Data Science
 
-Um Capítulo 11 :
+Um Capítulo 11 com aprendizados de Estatística para Data Science e finalização com um Dashboard com as principais Medidas Estatísticas:
 
 <ul>
   <li>Introdução</li>
