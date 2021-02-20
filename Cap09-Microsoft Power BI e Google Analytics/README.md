@@ -1,7 +1,6 @@
-# Microsoft Power BI Mobile
+# Microsoft Power BI e Google Analytics
 
-No Capítulo 8 do Curso foi abordado o tema para uso do Power BI em Smartphones ou Tablets: 
-Obs: Para uso, necessita-se um e-mail corporativo ou de estudante. Porém, conseguimos fazer uma simulação de Visualização Mobile.
+No Capítulo 9 do curso foi mostrado como extrair dados do Google Analytics e fazer a integração com o Power BI: 
 
 <ul>
   <li>Introdução</li>

@@ -15,4 +15,4 @@ Criar um Dashboard com Integração com Google Analytics:
 </ul>
 
 # Dashboard
-<center><img src="" alt="" width="800"></center>
+<center><img src="https://user-images.githubusercontent.com/61481422/108578966-98c3d880-7303-11eb-93b9-b54f8bde5118.png" alt="" width="800"></center>
