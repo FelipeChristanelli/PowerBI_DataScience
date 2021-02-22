@@ -1,6 +1,6 @@
 # Linguagem R e Power BI para Análise Estatística
 
-:
+Neste 12º Capítulo com uma Introdução a Linguagem R e Integração da mesma com o Power BI:
 
 <ul>
   <li>Introdução</li>
