@@ -1,4 +1,4 @@
-# Linguagem Python e Power BI para Manipulação de Dados
+# Microsoft Power BI e Apache Spark para Processamento de Big Data
 
 14º Capítulo Teórico com Introdução sobre o que é o Apache Spark com quando e por que deve ser utilizado com Power BI:
 
