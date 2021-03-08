@@ -1,4 +1,4 @@
-# Power Virtual Agents
+# Projeto Final - Data Lake, Dremio e Power BI para Análise de Vendas
 
 No 20º Capítulo para finalizar acompanhamos uma aplicação de demonstração de aplicação de ferramenta para Construção de Pipeline como o Drêmio em que vamos: carregar dados, criar o pipeline, otimizar o pipeline e analisar os dados com Power BI Desktop:
 <ul>
